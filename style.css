@@ -1,7 +1,37 @@
 body {
-  background-color: #;
+  background-image: url("background.jpg");
+}
+
+div{
+  margin-top: 10px;
+  border-bottom: 30px;
+}
+.cv {
+  width: 90%;
+  max-width: 800px;
 }
 p{
-  color: #;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: white;
+}
 
+h1{
+font-size:25px;
+  color: white;
+}
+h2{
+  color: white;
+}
+
+h3{
+  color:white;
+}
+h4{
+  font-style: oblique;
+  font-family: cursive;
+  color: white;
+}
+ul{
+  color: white;
 }
